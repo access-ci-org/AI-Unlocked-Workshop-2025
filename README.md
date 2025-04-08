@@ -33,13 +33,8 @@ Singularity Image File Location (for TensorFlow): /cm/shared/apps/containers/sin
 Singularity Image File Location (for PyTorch): /cm/shared/apps/containers/singularity/pytorch/pytorch-latest.sif\
 Modules: singularitypro\
 Reservation: nairrworkshop (this reservation can be used only from April 2, 9AM – April 3, 1:30PM), any other time leave blank\
-QOS (GPU jobs only): gpu-shared-eot\
-QOS (compute partition): normal-eot (for short batch jobs only)\
-
-Tips for EXPANASE:  
-\- Use 'shared' for all CPU-only interactive jobs.  
-\- Use 'gpu-shared' + 'gpu-shared-eot' QOS for GPU jobs. Prefer short batch jobs due to limited GPU availability.  
-\- Only use 'compute' partition with 'normal-eot' QOS for special short batch needs.
+QOS (GPU jobs only): gpu-shared-eot (this reservation can be used only from April 2, 9AM – April 3, 1:30PM), any other time leave blank\
+QOS (compute partition): normal-eot (for short batch jobs only) (this reservation can be used only from April 2, 9AM – April 3, 1:30PM), any other time leave blank\
 
 ## **Jupyter Notebook Settings (Open On Demand) — Delta**
 Delta Open on demand Portal : <https://openondemand.delta.ncsa.illinois.edu/>
