@@ -31,7 +31,7 @@ GPU (if used): 1\
 Time Limit (min): 60\
 Singularity Image File Location (for TensorFlow): /cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif\
 Singularity Image File Location (for PyTorch): /cm/shared/apps/containers/singularity/pytorch/pytorch-latest.sif\
-Modules: singularitypro\
+Modules: singularitypro
 
 ## **Jupyter Notebook Settings (Open On Demand) — Delta**
 Delta Open on demand Portal : <https://openondemand.delta.ncsa.illinois.edu/>
